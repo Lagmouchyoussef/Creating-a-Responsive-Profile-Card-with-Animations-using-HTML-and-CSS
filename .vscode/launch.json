@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open index.HTML",
+            "file": "c:\\Users\\youss\\OneDrive\\Bureau\\Creating a Responsive Profile Card with Animations using HTML and CSS\\Creating-a-Responsive-Profile-Card-with-Animations-using-HTML-and-CSS-1\\HTML\\CSS\\index.HTML"
+        }
+    ]
+}
